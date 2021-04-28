@@ -1,9 +1,11 @@
-# main links
+﻿# main links
 main:
+  - title: "Home"
+    url: "https://jihackstory.github.io/"
   - title: "About"
     url: /about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Sample Posts"
+    url: /백준 Challenge/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
