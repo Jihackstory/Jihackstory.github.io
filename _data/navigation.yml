@@ -4,8 +4,8 @@ main:
     url: "https://jihackstory.github.io/"
   - title: "About"
     url: /about/
-  - title: "Sample Posts"
-    url: /백준 Challenge/
+  - title: "카테고리"
+    url: /categories/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

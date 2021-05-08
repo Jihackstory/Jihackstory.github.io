@@ -8,4 +8,5 @@ taxonomy: Baekjoon challenge
 
 
 
-개인적인 백준 문제풀이 입니다
+백준 문제풀이 모음입니다
+
