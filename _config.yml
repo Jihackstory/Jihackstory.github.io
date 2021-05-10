@@ -78,7 +78,7 @@ theme_mode:   # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://jihackstory.github.io/_site/assets/img/profile/moon.png
+avatar: https://jihackstory.github.io/assets/img/favicons/android-chrome-512x512.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
